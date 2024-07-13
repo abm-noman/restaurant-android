@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1005455948046",
+    "project_id": "kutumbari-4a093",
+    "storage_bucket": "kutumbari-4a093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005455948046:android:51ddc6ce8c2296d3317f5f",
+        "android_client_info": {
+          "package_name": "com.example.kutumbari"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxKVBDuHcadjR7Xrs4wwu75HvAHf-z5CE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
